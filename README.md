@@ -32,6 +32,9 @@ nano .env.sepolia
 
 *Site: https://drpc.org/*
 
+<img width="870" alt="Screenshot at Oct 11 16-45-00" src="https://github.com/user-attachments/assets/a3944772-45c9-4544-bf19-e2d3b5a289c1">
+
+
 *After entering the information, we exit with Ctrl + X, then Y, and finally Enter.*
 
 *To start the node, we run the following command.*
